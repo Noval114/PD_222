@@ -4,5 +4,6 @@ public class LuasLingkaran {
         double luas = Math.PI * Math.pow(jari, 2);
         System.out.println("luas lingkarang adalah " + luas);
 
-    }
-}
+            }
+
+        }
